@@ -1,3 +1,2 @@
 # madeinbaires.github.io
-
-Hola a todos
+Aca se visualizan los proyectos realizados
